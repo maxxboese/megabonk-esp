@@ -34,4 +34,4 @@ A Mod for Megabonk that highlights all objects with a text label
 
 - Scratched feature/object has esp option. I didn't know the balance shrine wasnt in the game im bad at this game
 
--Only bugs i know about are the esp labels sometimes render over nothing.
+- Only bugs i know about are the esp labels sometimes render over nothing.
