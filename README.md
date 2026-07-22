@@ -36,3 +36,15 @@ See below for the modified melon installer that does it all for you automaticall
 - Scratched feature/object has esp option. I didn't know the balance shrine wasnt in the game im bad at this game
 
 - Only bugs i know about are the esp labels sometimes render over nothing.
+
+# Planned Features
+
+- Glowhack
+
+- Chams
+
+- Customizable Enviornment
+
+- Subtle Movement Exploits
+
+- Subtle Damage Multiplier
