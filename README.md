@@ -4,6 +4,7 @@
 
 A Mod for Megabonk that highlights all objects with a text label
 
+See below for the modified melon installer that does it all for you automatically
 
 ## Features
 
