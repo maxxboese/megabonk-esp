@@ -52,7 +52,7 @@ A Mod for Megabonk that highlights all objects with a text label
 
 - Chams
 
-- Customizable Enviornment
+- Customizable environment
 
 - Subtle Movement Exploits
 
