@@ -3,6 +3,7 @@
 - Added chams
 
 ## idk how to fix garbage esp lol
+Next update will be gui changes and for now, you can use chams and disable the labels
 
 # Check releases for the installer that installs melon loader + the esp mod all for you
 
