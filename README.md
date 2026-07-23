@@ -1,7 +1,6 @@
 ## Changelog
 
 - Added chams
-- Fixed garbage esp objects
 
 # Check releases for the installer that installs melon loader + the esp mod all for you
 
