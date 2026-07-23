@@ -2,6 +2,8 @@
 
 - Added chams
 
+## idk how to fix garbage esp lol
+
 # Check releases for the installer that installs melon loader + the esp mod all for you
 
 # Megabonk ESP Mod (Melon Loader)
